@@ -15,7 +15,7 @@ The file structure of this project is as follows.
 ├── README.md
 ├── script
 │   ├── conn_ad_preprocessing_template.m
-│   ├── conn_ad_preprocessing_template.m
+│   ├── conn_cn_preprocessing_template.m
 │   └── unzip.m
 ├── notebooks
 │   ├── fMRIGCN_w_knngraph_ensemble_hyperparametertuning_nestedCV.ipynb
